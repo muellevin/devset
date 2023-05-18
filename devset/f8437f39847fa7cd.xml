@@ -1,0 +1,27 @@
+<annotation verified="yes">
+    <folder>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset</folder>
+    <filename>f8437f39847fa7cd.jpg</filename>
+    <path>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset/f8437f39847fa7cd.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>479</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Squirrel</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>186</xmin>
+            <ymin>99</ymin>
+            <xmax>273</xmax>
+            <ymax>186</ymax>
+        </bndbox>
+</object>
+
+</annotation>

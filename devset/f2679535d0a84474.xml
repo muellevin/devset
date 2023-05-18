@@ -1,0 +1,27 @@
+<annotation verified="yes">
+    <folder>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset</folder>
+    <filename>f2679535d0a84474.jpg</filename>
+    <path>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset/f2679535d0a84474.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>230</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Raccoon</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>68</xmin>
+            <ymin>26</ymin>
+            <xmax>210</xmax>
+            <ymax>293</ymax>
+        </bndbox>
+</object>
+
+</annotation>

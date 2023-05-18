@@ -1,0 +1,51 @@
+<annotation verified="yes">
+    <folder>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset</folder>
+    <filename>f4f34f23810a0e11.jpg</filename>
+    <path>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset/f4f34f23810a0e11.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>488</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Fox</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>165</xmin>
+            <ymin>101</ymin>
+            <xmax>401</xmax>
+            <ymax>293</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Fox</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>6</xmin>
+            <ymin>172</ymin>
+            <xmax>121</xmax>
+            <ymax>294</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Fox</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>345</xmin>
+            <ymin>188</ymin>
+            <xmax>477</xmax>
+            <ymax>272</ymax>
+        </bndbox>
+</object>
+
+</annotation>

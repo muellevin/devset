@@ -1,0 +1,63 @@
+<annotation verified="yes">
+    <folder>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset</folder>
+    <filename>f3552e76010ae053.jpg</filename>
+    <path>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset/f3552e76010ae053.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>345</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Cat</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>21</xmin>
+            <ymin>69</ymin>
+            <xmax>242</xmax>
+            <ymax>300</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Cat</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>102</xmin>
+            <ymin>154</ymin>
+            <xmax>236</xmax>
+            <ymax>303</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Cat</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>187</xmin>
+            <ymin>166</ymin>
+            <xmax>320</xmax>
+            <ymax>302</ymax>
+        </bndbox>
+</object>
+<object>
+        <name>Cat</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>274</xmin>
+            <ymin>206</ymin>
+            <xmax>330</xmax>
+            <ymax>285</ymax>
+        </bndbox>
+</object>
+
+</annotation>

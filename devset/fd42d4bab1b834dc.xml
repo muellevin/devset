@@ -1,0 +1,27 @@
+<annotation verified="yes">
+    <folder>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset</folder>
+    <filename>fd42d4bab1b834dc.jpg</filename>
+    <path>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset/fd42d4bab1b834dc.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>487</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Cat</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>70</xmin>
+            <ymin>107</ymin>
+            <xmax>292</xmax>
+            <ymax>276</ymax>
+        </bndbox>
+</object>
+
+</annotation>

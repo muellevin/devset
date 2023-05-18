@@ -1,0 +1,27 @@
+<annotation verified="yes">
+    <folder>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset</folder>
+    <filename>f1ddfa6c4dcf8547.jpg</filename>
+    <path>c:\dev\DHBW\Studienarbeit\Detection_training\Tensorflow\workspace\images\devset/f1ddfa6c4dcf8547.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>479</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Fox</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>165</xmin>
+            <ymin>142</ymin>
+            <xmax>207</xmax>
+            <ymax>177</ymax>
+        </bndbox>
+</object>
+
+</annotation>
